@@ -2,6 +2,9 @@
 
 <img width="1910" height="744" alt="Lead-generation-AI-Agent" src="https://github.com/user-attachments/assets/7fab2e77-c4fd-435a-ac0f-bc70ef7aa3be" />
 
+<img width="1024" height="370" alt="unnamed (12)" src="https://github.com/user-attachments/assets/535936a1-dd32-4846-a0ad-c03d8c569fe6" />
+
+
 
 Workflow overview in n8n
 
