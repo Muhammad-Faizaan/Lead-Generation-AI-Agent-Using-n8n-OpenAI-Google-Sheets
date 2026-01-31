@@ -1,4 +1,5 @@
-🚀 Lead Generation AI Agent (n8n + OpenAI + Google Sheets)
+**Lead Generation AI Agent (n8n + OpenAI + Google Sheets)**
+
 <img width="1910" height="793" alt="Lead-generation-AI-Agent" src="https://github.com/user-attachments/assets/3d3301ff-a659-497a-b332-5a37190e99f9" />
 
 Workflow overview in n8n
